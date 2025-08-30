@@ -31,8 +31,8 @@ Create a modern, real-time chat application using WebSocket technology that enab
 
 2. **Open the application:**
    ```bash
-   # Simply open the index.html file in your web browser
-   open index.html
+   # Simply open the main.html file in your web browser
+   open main.html
    ```
 
 3. **Start chatting:**
