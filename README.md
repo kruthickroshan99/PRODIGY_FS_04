@@ -47,7 +47,6 @@ For testing purposes, use these default credentials:
 
 **Admin Account:**
 - User Name : admin
-  use this to join the chat
 
 ## Screenshots
 
