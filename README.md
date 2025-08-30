@@ -26,7 +26,7 @@ Create a modern, real-time chat application using WebSocket technology that enab
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/chatflow-realtime-chat
+   https://github.com/kruthickroshan99/PRODIGY_FS_04
    ```
 
 2. **Open the application:**
