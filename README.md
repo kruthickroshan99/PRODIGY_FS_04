@@ -41,6 +41,14 @@ Create a modern, real-time chat application using WebSocket technology that enab
    - Start private conversations with other users
    - Share files, react to messages, and enjoy real-time communication
 
+## Default Credentials
+
+For testing purposes, use these default credentials:
+
+**Admin Account:**
+- User Name : admin
+  use this to join the chat
+
 ## Screenshots
 
 ### Authentication Screen
